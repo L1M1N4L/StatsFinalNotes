@@ -640,29 +640,25 @@ Thus, the probability that the player makes at least 12 successful free throws i
 **Solution**:  
 Given data for hours of sunlight and corresponding heights of 5 plants:
 
-| Hours of Sunlight (X) | Height (cm) (Y) | x | y | xy | x² | y² |
-|---------------------|----------------|---|---|----|----|----|
-| 2                   | 10             | -4| -10| 40 | 16 | 100|
-| 4                   | 15             | -2| -5 | 10 | 4  | 25 |
-| 6                   | 20             | 0 | 0  | 0  | 0  | 0  |
-| 8                   | 25             | 2 | 5  | 10 | 4  | 25 |
-| 10                  | 30             | 4 | 10 | 40 | 16 | 100|
+| Hours of Sunlight (X) | Height (cm) (Y) | xy | x² | y² |
+|---------------------|----------------|----|----|----|
+| 2                   | 10             |  20 | 4 | 100|
+| 4                   | 15             |  60 | 16  | 225 |
+| 6                   | 20             | 120  | 36  | 400  |
+| 8                   | 25             |  200 | 64  | 625 |
+| 10                  | 30             | 300 | 100 | 900|
 
-**Step 1**:  
-Calculate sums:  
-- \( \sum x = 0 \)  
-- \( \sum y = 0 \)  
-- \( \sum xy = 100 \)  
-- \( \sum x^2 = 40 \)  
-- \( \sum y^2 = 250 \)
+| $\sum x$| $\sum y$ | $\sum xy$ | $\sum x²$ |$\sum y²$ |
+|---------------------|----------------|----|----|----|
+| 30                   | 100             |  700 | 220 | 2250|
+
 
 **Step 2**:  
 Calculate the Pearson correlation coefficient:  
-$$r = \frac{\sum xy}{\sqrt{\sum x^2 \times \sum y^2}}$$  
-$$r = \frac{100}{\sqrt{40 \times 250}} = \frac{100}{100} = 1$$
+$$r = \frac{n\sum xy-\sum x\sum y}{\sqrt{[n\sum x^2-(\sum x)^2] \times [n\sum y^2-(\sum )^2] }}$$  
+$$r = \frac{5\left(700\right)-3000}{\sqrt{\left(\left(5\cdot220\right)-\left(30\right)^{2}\right)\left(\left(5\cdot2250\right)-\left(100\right)^{2}\right)}} = 1$$
 
 Thus, the Pearson correlation coefficient is **1**.
 
 
 
-"# StatsFinalNotes" 
