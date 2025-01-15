@@ -1,5 +1,30 @@
-###EMERGENCY
+### EMERGENCY
 https://binusianorg-my.sharepoint.com/personal/2070000371_binusian_org/_layouts/15/guestaccess.aspx?share=Ev2Ea3s3G81AhAK9ysQFqa8BWupele6uKBBCIlL1gD4zPg&e=Tym6Kl
+# Calculator Website:
+
+P value
+https://www.omnicalculator.com/statistics/p-value
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.graphpad.com/quickcalcs/pvalue1/&ved=2ahUKEwib3IG48vKKAxXCUGwGHYjQKJwQFnoECC8QAQ&usg=AOvVaw0iCONtF9wIQDS4BzUhzRAP
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.socscistatistics.com/pvalues/&ved=2ahUKEwib3IG48vKKAxXCUGwGHYjQKJwQFnoECCwQAQ&usg=AOvVaw1cPHHMY8jJZcHXHm-ArtC3
+
+Standard Deviation Calculator:
+https://www.calculator.net/standard-deviation-calculator.html
+
+Anova Calculator:
+https://www.statskingdom.com/180Anova1way.html
+https://www.standarddeviationcalculator.io/anova-calculator
+https://datatab.net/statistics-calculator/hypothesis-test/two-way-anova-calculator
+
+
+Scientific Calculator:
+https://www.desmos.com/scientific
+
+
+Other Link:
+https://atozmath.com/CONM/NonParaTest.aspx?q=chi2t&q1=10%2C15%2C5%3B20%2C10%2C5%3B10%2C5%2C10%600.05%601&dp=4&do=1#PrevPart
+https://atozmath.com/CONM/Anova.aspx?q=anova2&q1=78%2382%2385%2c90%2388%2392%3b72%2375%2374%2c85%2380%2384%3b65%2368%2370%2c78%2375%2380%60%60&dp=4&do=1#PrevPart
+https://atozmath.com/CONM/Anova.aspx?q=anova1
+https://github.com/L1M1N4L/StatsFinalNotes
 
 ### **Stem-and-Leaf Display**
 
